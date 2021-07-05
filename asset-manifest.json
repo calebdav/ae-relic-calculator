@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ae-relic-calculator/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/ae-relic-calculator/static/js/main.2d32e349.chunk.js",
-    "main.js.map": "/ae-relic-calculator/static/js/main.2d32e349.chunk.js.map",
+    "main.js": "/ae-relic-calculator/static/js/main.17420100.chunk.js",
+    "main.js.map": "/ae-relic-calculator/static/js/main.17420100.chunk.js.map",
     "runtime-main.js": "/ae-relic-calculator/static/js/runtime-main.6afe45ab.js",
     "runtime-main.js.map": "/ae-relic-calculator/static/js/runtime-main.6afe45ab.js.map",
-    "static/js/2.fcee38df.chunk.js": "/ae-relic-calculator/static/js/2.fcee38df.chunk.js",
-    "static/js/2.fcee38df.chunk.js.map": "/ae-relic-calculator/static/js/2.fcee38df.chunk.js.map",
+    "static/js/2.34aae906.chunk.js": "/ae-relic-calculator/static/js/2.34aae906.chunk.js",
+    "static/js/2.34aae906.chunk.js.map": "/ae-relic-calculator/static/js/2.34aae906.chunk.js.map",
     "static/js/3.80ab17e7.chunk.js": "/ae-relic-calculator/static/js/3.80ab17e7.chunk.js",
     "static/js/3.80ab17e7.chunk.js.map": "/ae-relic-calculator/static/js/3.80ab17e7.chunk.js.map",
     "index.html": "/ae-relic-calculator/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/ae-relic-calculator/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.fcee38df.chunk.js.LICENSE.txt": "/ae-relic-calculator/static/js/2.fcee38df.chunk.js.LICENSE.txt"
+    "static/js/2.34aae906.chunk.js.LICENSE.txt": "/ae-relic-calculator/static/js/2.34aae906.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6afe45ab.js",
-    "static/js/2.fcee38df.chunk.js",
+    "static/js/2.34aae906.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.2d32e349.chunk.js"
+    "static/js/main.17420100.chunk.js"
   ]
 }
