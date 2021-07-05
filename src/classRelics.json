@@ -1,0 +1,112 @@
+{
+    "Sustenance": {
+        "Mythic": [
+            {
+                "name": "Horn of Defiance"
+            },
+            {
+                "name": "Legacy of the Fallen"
+            },
+            {
+                "name": "Light's Truth"
+            },
+            {
+                "name": "Heirloom of Time"
+            },
+            {
+                "name": "Sacred Grail"
+            },
+            {
+                "name": "Star of Compassion"
+            }
+        ]
+    },
+    "Sorcery": {
+        "Mythic": [
+            {
+                "name": "Horn of Defiance"
+            },
+            {
+                "name": "Conquest Eternal"
+            },
+            {
+                "name": "Legacy of the Fallen"
+            },
+            {
+                "name": "Light's Truth"
+            },
+            {
+                "name": "Wizard's Spire"
+            },
+            {
+                "name": "Star of Wisdom"
+            }
+        ]
+    },
+    "Celeciry": {
+        "Mythic": [
+            {
+                "name": "Mercy and Malice"
+            },
+            {
+                "name": "Master's Claw"
+            },
+            {
+                "name": "Diligence"
+            },
+            {
+                "name": "Conquest Eternal"
+            },
+            {
+                "name": "Legacy of the Fallen"
+            },
+            {
+                "name": "Star of Agility"
+            }
+        ]
+    },
+    "Might": {
+        "Mythic": [
+            {
+                "name": "Mercy and Malice"
+            },
+            {
+                "name": "The Austere Resolve"
+            },
+            {
+                "name": "Diligence"
+            },
+            {
+                "name": "Light's Hope"
+            },
+            {
+                "name": "Master's Claw"
+            },
+            {
+                "name": "Star of Valor"
+            }
+        ]
+    },
+    "Fortitude": {
+        "Mythic": [
+            {
+                "name": "Hero's Vow"
+            },
+            {
+                "name": "Horn of Defiance"
+            },
+            {
+                "name": "Light's Hope"
+            },
+            {
+                "name": "Master's Claw"
+            },
+            {
+                "name": "Diligence"
+            },
+            {
+                "name": "Star of Determination"
+            }
+        ]
+    }
+}
