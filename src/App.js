@@ -17,16 +17,16 @@ class App extends React.Component {
 
   updateClass = (e) => {
     const result = e.target.value === 'Select...' ? '' : e.target.value;
-    this.setState({selectedClass: result, selectedRelic: ''})
+    this.setState({ selectedClass: result, selectedRelic: '' })
   }
 
   updateQuality = (e) => {
     const result = e.target.value === 'Select...' ? '' : e.target.value;
-    this.setState({selectedQuality: result, selectedRelic: ''})
+    this.setState({ selectedQuality: result, selectedRelic: '' })
   }
 
   updateEssencePerHour = (e) => {
-    this.setState({essencePerHour: parseInt(e.target.value) || 0})
+    this.setState({ essencePerHour: parseInt(e.target.value) || 0 })
   }
 
   getHowLongEssenceWillTake = () => {
@@ -39,8 +39,8 @@ class App extends React.Component {
     const { selectedClass, selectedQuality, selectedRelic, essencePerHour } = this.state;
 
     return (
-      <div style={{backgroundColor: 'lightgray', padding: '20px'}}>
-        <div style={{backgroundColor: 'white', padding: '20px'}}>
+      <div style={{ backgroundColor: 'lightgray', padding: '20px' }}>
+        <div style={{ backgroundColor: 'white', padding: '20px' }}>
           <div>
             <Form.Group>
               <Form.Label>Select Class</Form.Label>
@@ -64,7 +64,7 @@ class App extends React.Component {
               </Form.Control>
               <br />
               <Form.Label>Essence per hour</Form.Label>
-              <Form.Control placeholder='0' type='number' onChange={this.updateEssencePerHour}/>
+              <Form.Control placeholder='0' type='number' onChange={this.updateEssencePerHour} />
             </Form.Group>
           </div>
           {isFormValid && (
@@ -75,7 +75,11 @@ class App extends React.Component {
                 <Row>
                   {classRelics[selectedClass][selectedQuality].map((relic) => (
                     <Col xs={6} md={4} lg={2} key={relic.name}>
-                      <Image src={'small-axe.png'} rounded onClick={() => this.setState({ selectedRelic: relic.name})} />
+                      <img
+                        src={'images/MercyAndMalice.png'}
+                        onClick={() => this.setState({ selectedRelic: relic.name })}
+                        alt={relic.name}
+                      />
                     </Col>
                   ))}
                 </Row>
@@ -85,7 +89,7 @@ class App extends React.Component {
           )}
           {selectedRelic !== '' && (essencePerHour == 0 ? (
             <div>Ranhorn will fall before you finish this relic, please update essence per hour.</div>
-          ): (
+          ) : (
             <div>It will take {this.getHowLongEssenceWillTake()} hours to complete</div>
           ))}
         </div>

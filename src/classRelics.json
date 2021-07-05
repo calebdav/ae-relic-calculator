@@ -2,110 +2,140 @@
     "Sustenance": {
         "Mythic": [
             {
-                "name": "Horn of Defiance"
+                "name": "Horn of Defiance",
+                "img": "HornOfDefiance.png"
             },
             {
-                "name": "Legacy of the Fallen"
+                "name": "Legacy of the Fallen",
+                "img": ""
             },
             {
-                "name": "Light's Truth"
+                "name": "Light's Truth",
+                "img": ""
             },
             {
-                "name": "Heirloom of Time"
+                "name": "Heirloom of Time",
+                "img": ""
             },
             {
-                "name": "Sacred Grail"
+                "name": "Sacred Grail",
+                "img": ""
             },
             {
-                "name": "Star of Compassion"
+                "name": "Star of Compassion",
+                "img": ""
             }
         ]
     },
     "Sorcery": {
         "Mythic": [
             {
-                "name": "Horn of Defiance"
+                "name": "Horn of Defiance",
+                "img": ""
             },
             {
-                "name": "Conquest Eternal"
+                "name": "Conquest Eternal",
+                "img": ""
             },
             {
-                "name": "Legacy of the Fallen"
+                "name": "Legacy of the Fallen",
+                "img": ""
             },
             {
-                "name": "Light's Truth"
+                "name": "Light's Truth",
+                "img": ""
             },
             {
-                "name": "Wizard's Spire"
+                "name": "Wizard's Spire",
+                "img": ""
             },
             {
-                "name": "Star of Wisdom"
+                "name": "Star of Wisdom",
+                "img": ""
             }
         ]
     },
-    "Celeciry": {
+    "Celerity": {
         "Mythic": [
             {
-                "name": "Mercy and Malice"
+                "name": "Mercy and Malice",
+                "img": "./images/MercyAndMalice.png"
             },
             {
-                "name": "Master's Claw"
+                "name": "Master's Claw",
+                "img": ""
             },
             {
-                "name": "Diligence"
+                "name": "Diligence",
+                "img": ""
             },
             {
-                "name": "Conquest Eternal"
+                "name": "Conquest Eternal",
+                "img": ""
             },
             {
-                "name": "Legacy of the Fallen"
+                "name": "Legacy of the Fallen",
+                "img": ""
             },
             {
-                "name": "Star of Agility"
+                "name": "Star of Agility",
+                "img": ""
             }
         ]
     },
     "Might": {
         "Mythic": [
             {
-                "name": "Mercy and Malice"
+                "name": "Mercy and Malice",
+                "img": ""
             },
             {
-                "name": "The Austere Resolve"
+                "name": "The Austere Resolve",
+                "img": ""
             },
             {
-                "name": "Diligence"
+                "name": "Diligence",
+                "img": ""
             },
             {
-                "name": "Light's Hope"
+                "name": "Light's Hope",
+                "img": ""
             },
             {
-                "name": "Master's Claw"
+                "name": "Master's Claw",
+                "img": ""
             },
             {
-                "name": "Star of Valor"
+                "name": "Star of Valor",
+                "img": ""
             }
         ]
     },
     "Fortitude": {
         "Mythic": [
             {
-                "name": "Hero's Vow"
+                "name": "Hero's Vow",
+                "img": ""
             },
             {
-                "name": "Horn of Defiance"
+                "name": "Horn of Defiance",
+                "img": ""
             },
             {
-                "name": "Light's Hope"
+                "name": "Light's Hope",
+                "img": ""
             },
             {
-                "name": "Master's Claw"
+                "name": "Master's Claw",
+                "img": ""
             },
             {
-                "name": "Diligence"
+                "name": "Diligence",
+                "img": ""
             },
             {
-                "name": "Star of Determination"
+                "name": "Star of Determination",
+                "img": ""
             }
         ]
     }
