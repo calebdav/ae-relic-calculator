@@ -90,7 +90,7 @@ class App extends React.Component {
           {selectedRelic !== '' && (essencePerHour == 0 ? (
             <div>Ranhorn will fall before you finish this relic, please update essence per hour.</div>
           ) : (
-            <div>It will take {this.getHowLongEssenceWillTake()} hours to complete</div>
+            <div>It will take {this.getHowLongEssenceWillTake()} hours to complete the relic, {selectedRelic}</div>
           ))}
         </div>
       </div>
