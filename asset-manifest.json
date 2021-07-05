@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ae-relic-calculator/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/ae-relic-calculator/static/js/main.3f42d2ee.chunk.js",
-    "main.js.map": "/ae-relic-calculator/static/js/main.3f42d2ee.chunk.js.map",
+    "main.js": "/ae-relic-calculator/static/js/main.25a2ca9b.chunk.js",
+    "main.js.map": "/ae-relic-calculator/static/js/main.25a2ca9b.chunk.js.map",
     "runtime-main.js": "/ae-relic-calculator/static/js/runtime-main.6afe45ab.js",
     "runtime-main.js.map": "/ae-relic-calculator/static/js/runtime-main.6afe45ab.js.map",
     "static/js/2.34aae906.chunk.js": "/ae-relic-calculator/static/js/2.34aae906.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6afe45ab.js",
     "static/js/2.34aae906.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.3f42d2ee.chunk.js"
+    "static/js/main.25a2ca9b.chunk.js"
   ]
 }
