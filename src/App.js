@@ -76,7 +76,7 @@ class App extends React.Component {
                   {classRelics[selectedClass][selectedQuality].map((relic) => (
                     <Col xs={6} md={4} lg={2} key={relic.name}>
                       <img
-                        src={'images/MercyAndMalice.png'}
+                        src={relic.img}
                         onClick={() => this.setState({ selectedRelic: relic.name })}
                         alt={relic.name}
                       />
